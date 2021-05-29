@@ -1,0 +1,13 @@
+[package]
+name = "edx"
+version = "0.1.0"
+authors = ["CryptosByte <notcryptos@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+# Colouring the terminal
+colored = "2"
+# Reading JSON
+serde_json = "1.0"
+# Run shell commands
+cmd_lib = "1.0.10"

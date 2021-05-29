@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "list_dir": "ls",
+        "cls": "clear"
+    }
+}
